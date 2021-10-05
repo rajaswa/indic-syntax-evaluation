@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your work, please cite it as below."
+authors:
+- family-names: "Patil"
+  given-names: "Rajaswa"
+- family-names: "Dhillon"
+  given-names: "Jasleen"
+- family-names: "Mahurkar"
+  given-names: "Siddhant"
+- family-names: "Kulkarni"
+  given-names: "Saumitra"
+- family-names: "Malhotra"
+  given-names: "Manav"
+- family-names: "Baths"
+  given-names: "Veeky"
+title: "Vy\=akarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
+preferred-citation:
+  type: misc
+  authors:
+    - family-names: "Patil"
+      given-names: "Rajaswa"
+    - family-names: "Dhillon"
+      given-names: "Jasleen"
+    - family-names: "Mahurkar"
+      given-names: "Siddhant"
+    - family-names: "Kulkarni"
+      given-names: "Saumitra"
+    - family-names: "Malhotra"
+      given-names: "Manav"
+    - family-names: "Baths"
+      given-names: "Veeky"
+  title: "Vy\=akarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
+  eprint: 2103.00854
+  archivePrefix: arXiv
+  primaryClass: cs.CL
+  year: 2021
