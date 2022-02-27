@@ -13,9 +13,12 @@ authors:
   given-names: "Manav"
 - family-names: "Baths"
   given-names: "Veeky"
-title: "Vy\=akarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
-preferred-citation:
-  type: misc
+title: "Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
+doi: 10.18653/v1/2021.mrl-1.14
+date-released: 2021-11-30
+url: "https://aclanthology.org/2021.mrl-1.14/"
+conference-paper:
+  type: inproceedings
   authors:
     - family-names: "Patil"
       given-names: "Rajaswa"
@@ -29,8 +32,13 @@ preferred-citation:
       given-names: "Manav"
     - family-names: "Baths"
       given-names: "Veeky"
-  title: "Vy\=akarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
-  eprint: 2103.00854
-  archivePrefix: arXiv
-  primaryClass: cs.CL
+  booktitle: "Proceedings of the 1st Workshop on Multilingual Representation Learning"
+  doi: "10.18653/v1/2021.mrl-1.14"
+  month: 11
+  start: 153 # First page number
+  end: 165 # Last page number
+  title: "Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages"
+  volume: Proceedings of the 1st Workshop on Multilingual Representation Learning
   year: 2021
+  address: "Punta Cana, Dominican Republic"
+  publisher: "Association for Computational Linguistics"
