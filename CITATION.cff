@@ -32,7 +32,7 @@ conference-paper:
       given-names: "Manav"
     - family-names: "Baths"
       given-names: "Veeky"
-  booktitle: "Proceedings of the 1st Workshop on Multilingual Representation Learning"
+  journal: "Proceedings of the 1st Workshop on Multilingual Representation Learning"
   doi: "10.18653/v1/2021.mrl-1.14"
   month: 11
   start: 153 # First page number
